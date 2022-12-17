@@ -21,8 +21,8 @@
 title: ADAmantiumForgers
 description: >- # this means to ignore newlines until "baseurl:"
   We present our ADA Project
-#baseurl: "ADAmantiumForgers" # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: "ADAmantiumForgers" # the subpath of your site, e.g. /blog
+#baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
