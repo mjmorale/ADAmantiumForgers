@@ -27,9 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
-#remote-theme : mmistakes/minimal-mistakes@4.24.0"
-remote_theme: pages-themes/cayman@v0.2.0
-
+#remote-theme : mmistakes/minimal-mistakes@4.24.0
+#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 #skin
 #minimal_mistakes_skin: dirt
 
