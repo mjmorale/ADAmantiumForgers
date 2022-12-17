@@ -26,8 +26,8 @@ baseurl: "ADAmantiumForgers" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#remote-theme : mmistakes/minimal-mistakes@4.24.0"
-remote_theme: pages-themes/cayman@v0.2.0
+remote-theme : mmistakes/minimal-mistakes@4.24.0
+#remote_theme: pages-themes/cayman@v0.2.0
 
 #theme: minimal-mistakes-jekyll
 plugins:
