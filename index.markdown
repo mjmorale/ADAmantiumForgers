@@ -47,6 +47,10 @@ ddd
 1 + 1 # Adding two numbers
 ```
 
+## Polatization
+
+{% include /figures/heatmap_comunity.html %}
+
 
 
 [1]: https://www.nber.org/papers/w2666
