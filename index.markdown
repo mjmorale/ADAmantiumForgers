@@ -38,7 +38,7 @@ In 2017, with the arrival in power of Donald Trump as president of the United St
     alt="tilte image">
 
 
-{% _includes/figures/cat_evo.html %}
+{% include /figures/cat_evo.html %}
 
 ## Importance of news & Politics Channels on Youtube
 ddd
@@ -49,7 +49,7 @@ ddd
 
 ## Polatization
 
-{% _includes/figures/heatmap_comunity.html %}
+{% include /figures/heatmap_comunity.html %}
 
 
 
