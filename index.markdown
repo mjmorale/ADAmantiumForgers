@@ -5,13 +5,12 @@
 layout: default
 ---
 
-
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 80%;"
-    src="/images/social-media-politics.jpg" 
+    src="images/social-media-politics.jpg" 
     alt="tilte image">
 
 
