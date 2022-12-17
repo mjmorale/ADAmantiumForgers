@@ -43,6 +43,11 @@ In 2017, with the arrival in power of Donald Trump as president of the United St
 ## Importance of news & Politics Channels on Youtube
 ddd
 
+
+## Polatization
+
+{% include /figures/heatmap_comunity.html %}
+
 ```python
 1 + 1 # Adding two numbers
 ```
