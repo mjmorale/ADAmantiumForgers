@@ -58,5 +58,11 @@ ddd
 
 
 
+## Polarization of Youtube users
+
+{% include /figures/p-score.html %}
+
+
+
 [1]: https://www.nber.org/papers/w2666
 [2]: https://theconversation.com/mapping-brazils-political-polarization-online-96434
