@@ -70,7 +70,7 @@ From milestone 2:
 
 ## Importance of news & Politics Channels on Youtube
 
-
+{% include /figures/news_pol_3pie_overview.html %}
 * * *
 ## Polatization
 
