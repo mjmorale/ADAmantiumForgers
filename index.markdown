@@ -41,9 +41,11 @@ In 2017, with the arrival in power of Donald Trump as president of the United St
 
 {% include /figures/overall_categories_evolution.html %}
 
+{% include /figures/2019_category_evolution %}
+
 ## Importance of news & Politics Channels on Youtube
-ddd
-Hello
+
+
 
 ## Polatization
 
