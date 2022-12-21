@@ -54,6 +54,8 @@ From milestone 2:
 The way of consuming the news has not stopped evolving over time. With the invention of the printing press, the world of information has been considerably changed. Then the news, transmitted more and more quickly with the development of the radio, the information has then changed its face to become more widespread and entertaining with the arrival of television in households. Finally, since the creation of the Internet, much information is transmitted through this channel. Today, about 40% of Americans get news online. It is even the number one source of information for the 18-45 age group. With the development of social networks, more and more people are getting information online and this also raises more and more questions.
 
 
+
+
 <img 
     style="display: block; 
            margin-left: auto;
