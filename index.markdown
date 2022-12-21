@@ -80,6 +80,8 @@ The category contains more than 18% of the videos contained in the dataset. Howe
 
 Even if the number of views in incoparable with the most attractive categories such as entertainement and music, the News and Politics categories is pushing its way up. During the last few year it was the categoy with the higher growth and it even become the category posting the most videos on the platform in 2019.
 {% include /figures/overall_categories_evolution.html %}
+
+
 {% include /figures/2019_category_evolution.html %}
 
 ## What is the problem then?
