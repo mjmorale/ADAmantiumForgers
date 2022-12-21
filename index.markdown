@@ -68,15 +68,23 @@ https://www.pewresearch.org/journalism/2021/01/12/news-use-across-social-media-p
     src="images/sources_of_news.png" 
     alt="Sources of news on social media">
 
+## So, What is the Importance of News & Politics Channels on Youtube?
 
-
-{% include /figures/overall_categories_evolution.html %}
-
-{% include /figures/2019_category_evolution.html %}
-
-## Importance of news & Politics Channels on Youtube
+YouTube contains millions of videos, but you would maybe be surprise that the YouTube category with the most uploaded videos is the News & Politics one.
+The category contains more than 18% of the videos contained in the dataset. However, when we are looking at the number of view or channels, the story changes drastically. The News & Politic channel represents less than 3% of the total numberof channel and count for only 1.74% of the total number of views.
 
 {% include /figures/news_pol_3pie_overview.html max-width="600px" %}
+
+
+## Where are we going?
+
+Even if the number of views in incoparable with the most attractive categories such as entertainement and music, the News and Politics categories is pushing its way up. During the last few year it was the categoy with the higher growth and it even become the category posting the most videos on the platform in 2019.
+{% include /figures/overall_categories_evolution.html %}
+{% include /figures/2019_category_evolution.html %}
+
+## What is the problem then?
+You may think. "Well, Great!, One other great plaform to get great sources of information!". I hate to disapoint you but the reallity may be more complex...
+
 * * *
 ## Polatization
 
