@@ -53,19 +53,21 @@ From milestone 2:
 
 The way of consuming the news has not stopped evolving over time. With the invention of the printing press, the world of information has been considerably changed. Then the news, transmitted more and more quickly with the development of the radio, the information has then changed its face to become more widespread and entertaining with the arrival of television in households. Finally, since the creation of the Internet, much information is transmitted through this channel. Today, about 40% of Americans get news online. It is even the number one source of information for the 18-45 age group. With the development of social networks, more and more people are getting information online and this also raises more and more questions.
 
+<a href="https://www.statista.com/statistics/717651/most-popular-news-platforms/" rel="nofollow"><img src="https://www.statista.com/graphic/1/717651/most-popular-news-platforms.jpg" alt="Statistic: Most popular platforms for daily news consumption in the United States as of February 2022, by age group | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+
+In the social media family, after Facebbok, YouTube is the second website where people get most of their news. In 2020, almost one in four people (23%) regulary get news on YouTube.
 
 
+https://www.pewresearch.org/journalism/2021/01/12/news-use-across-social-media-platforms-in-2020/pj_2021-01-12_news-social-media_0-02/
 
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 80%;"
-    src="images/category_evolution.png" 
-    alt="tilte image">
+           width: 100%;"
+    src="images/sources_of_news.png" 
+    alt="Sources of news on social media">
 
-
-<a href="https://www.statista.com/statistics/717651/most-popular-news-platforms/" rel="nofollow"><img src="https://www.statista.com/graphic/1/717651/most-popular-news-platforms.jpg" alt="Statistic: Most popular platforms for daily news consumption in the United States as of February 2022, by age group | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
 
 {% include /figures/overall_categories_evolution.html %}
