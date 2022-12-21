@@ -39,6 +39,9 @@ In 2017, with the arrival in power of Donald Trump as president of the United St
     alt="tilte image">
 
 
+<a href="https://www.statista.com/statistics/717651/most-popular-news-platforms/" rel="nofollow"><img src="https://www.statista.com/graphic/1/717651/most-popular-news-platforms.jpg" alt="Statistic: Most popular platforms for daily news consumption in the United States as of February 2022, by age group | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+
+
 {% include /figures/overall_categories_evolution.html %}
 
 {% include /figures/2019_category_evolution %}
